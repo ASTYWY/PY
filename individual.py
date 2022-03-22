@@ -9,3 +9,6 @@ c1=(a1+b1)%10
 print("c1 = ", c1)
 print("c2 = ", c2)
 print("c3 = ", c3)
+line =str(input("thanks!"))
+
+ 
