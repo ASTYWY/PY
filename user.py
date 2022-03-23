@@ -1,0 +1,7 @@
+headline =str(input("Hello my friend, let's get acquainted! ")) 
+name = str(input("What is your name dear? "))
+age = int(input("How old are you my friend? "))
+address = str(input("Where are you from? "))
+print("I am  ", name, ", I will be your friend foreva!")
+print("I am ", age, "years old")
+print("I am from ", address, ", I inwait you to my country!")
